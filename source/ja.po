@@ -1,0 +1,18 @@
+# Japanese translation for xibo
+# Copyright (c) 2025 Open Source Digital Signage Initiative
+# This file is distributed under the same license as the xibo package.
+# FIRST AUTHOR miura@open-signage.org, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: xibo\n"
+"Report-Msgid-Bugs-To: Mark Miura miura@open-signage.org\n"
+"POT-Creation-Date: 2025-02-20 08:59+0000\n"
+"PO-Revision-Date: 2025-03-03 12:35+0000\n"
+"Last-Translator: Masataka Miura\n"
+"Language-Team: Japanese <ja@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2025-03-10 07:25+0000\n"
+"X-Generator: Launchpad (build aa29ae0fff49e4e804b39147c9f259d2fb023199)\n"
