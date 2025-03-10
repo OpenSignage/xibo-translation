@@ -9,10 +9,13 @@ If you customeize or extend xibo softwear, you need to create additional message
 In this case, this program provide to merge originale translation file and new translation file, and create new language file.
 
 #  Structure
-source/[language].defalt.po is original .po file, downloaded from launchpad.
-source/[language].po is new file contain new translation messages.
-output is directory  created new  [launguage].mo file save inthis directory.
+`source/defalt-[language].po` is original .po file, downloaded from [launchpad](https://launchpad.net/xibo).
+
+`source/[language].po` is new file contain new translation messages.
+You should create this file by using po file editor.(ie:POEDIT)
+
+output is directory  created new `[launguage].mo` file save in this directory.
 
 # Translate xibo messages
 Run the folloing shell script file
-./generate.sh [language]
+`./generate.sh [language]`
